@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1483032469466-b937c425697b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80");
+}
+
+.header {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 5px red;
+}
+
+.card-1 {
+    border-radius: 300px;
+}
+
+.header-2 {
+    color: rgba(0, 0, 0, 0.781);
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 5px rgb(145, 255, 0);
+}
+
+img {
+    border-radius: 10%;
+}
+
+.responsive {
+    max-width: 400px;
+    height: auto;
+}
