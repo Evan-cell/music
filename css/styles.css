@@ -4,7 +4,7 @@ body {
 
 .header {
     color: black;
-    font-size: 70px;
+    font-size: 60px;
     text-align: center;
     font-family: 'Lobster', cursive;
     text-shadow: 2px 2px 5px red;
@@ -15,11 +15,11 @@ body {
 }
 
 .header-2 {
-    color: rgba(0, 0, 0, 0.781);
-    font-size: 100px;
+    color: white;
+    font-size: 60px;
     text-align: center;
     font-family: 'Lobster', cursive;
-    text-shadow: 2px 2px 5px rgb(145, 255, 0);
+    text-shadow: 2px 2px 5px rgb(255, 0, 0);
 }
 
 img {
